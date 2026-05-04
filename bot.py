@@ -3,7 +3,7 @@ from discord import app_commands
 from discord.ext import commands
 from datetime import timedelta
 
-TOKEN = "MTUwMDgzMzg1MTM4MTkxMTYzMg.G2xYWO.x8_xebTPBbgVCjBSzErKNYsKekelre9etMn7Tc"
+TOKEN = "YOUR_BOT_TOKEN_HERE
 
 # Role IDs
 CREATIVE_DIRECTOR = 1489266283890348226
